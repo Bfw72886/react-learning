@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev -H localhost"
   },
   "dependencies": {
     "next": "^15.2.4",
